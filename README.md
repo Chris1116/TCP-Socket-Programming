@@ -1,4 +1,5 @@
 # TCP-Socket-Programming
+<img width="741" alt="截圖 2024-03-11 晚上7 38 17" src="https://github.com/Chris1116/TCP-Socket-Programming/assets/68311584/03298318-d388-4815-b12d-6a67f11cd703">
 
 ## Project Specifications
 
